@@ -17,7 +17,7 @@ body{
     align-items: center;
 }
 .maincon{
-    background: linear-gradient(to right, #ffffff, #d0e499);
+    background: linear-gradient(to right, #63a9e2, #e2ce7c);
     width: 100%;
     height: 100vh;
     overflow: hidden;
@@ -46,14 +46,14 @@ body{
 }
 .leftcon .status img:nth-child(1){
     position: absolute;
-    top: 2%;
+    top: -2%;
     left: 2%;
-    width: 150px;
+    width: 200px;
     animation: imgmove 2s ease-in-out infinite;
 }
 .leftcon .status img:nth-child(2){
     position: absolute;
-    background: linear-gradient(to right, #e2ce7c, #63a9e2);
+    background: linear-gradient(to right, #63a9e2, #e2ce7c);
     border-radius: 0px 50px 50px 50px;
     top: 0%;
     right: 0%;

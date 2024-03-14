@@ -17,7 +17,7 @@ body{
     align-items: center;
 }
 .maincon{
-    background: linear-gradient(to right, #e2ce7c, #63a9e2);
+    background: linear-gradient(to right, #ffffff, #d0e499);
     width: 100%;
     height: 100vh;
     overflow: hidden;
@@ -48,7 +48,7 @@ body{
     position: absolute;
     top: 2%;
     left: 2%;
-    width: 150px;
+    width: 400px;
     animation: imgmove 2s ease-in-out infinite;
 }
 .leftcon .status img:nth-child(2){

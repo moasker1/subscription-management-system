@@ -41,9 +41,9 @@
     box-shadow: 1px 1px 30px #333;
 }
 .logcon img{
-    width: 150px;
+    width: 170px;
     position: absolute;
-    top: 2%;
+    top: -3%;
     right: 2%;
 }
 .logcon h1{
